@@ -1,16 +1,16 @@
-### Hi there 👋
+# Heyo 🐹
 
-<!--
-**ApproxNeo/ApproxNeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm your resident Hamster Guy
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# About ❗
+
+Mediocore in coding and that's perfectly fine!  
+Would love to work on cool new projects, hmu  
+Have somewhere between 2 and 78 hamsters
+
+---
+
+*The day hamsters get opposable thumbs is the day God will deem them too strong to be kept alive* 
+
