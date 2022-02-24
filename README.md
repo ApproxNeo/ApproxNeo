@@ -1,8 +1,8 @@
-# Heyo 🐹
+# Heyo
 
 #### I'm your resident Hamster Guy
 
-# About ❗
+# About
 
 Mediocore in coding and that's perfectly fine!  
 Spends too little time reading documentation and too much time trying random stuff  
